@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "balance": 2,
+      "xp": 2,
+      "level": 1,
+      "joined": "2026-06-18T12:41:17.448Z",
+      "last_mine": 1781786654540
+    }
+  ],
+  "referrals": []
+}
